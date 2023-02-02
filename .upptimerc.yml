@@ -15,7 +15,6 @@ skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 status-website:
-  apiBaseUrl: https://api.github.com
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -32,3 +31,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+#i18n:
+#    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
