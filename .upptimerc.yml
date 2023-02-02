@@ -10,15 +10,22 @@ sites:
   - name: Demo Cloud (Custom Domain)
     url: https://time.kevinpapst.de
 
+    grep;https://kevin.kimai.cloud/de/login|Customer Clouds;Anmelden
+    grep;https://www.kimai.cloud/|Website;Create account
+    grep;https://www.kimai.cloud/auth/|Account & Billing;Login
+    grep;https://www.kimai.cloud/___status/|Outbound Emails Delivery;"MAIL":true
+
+
+
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  #cname: demo.upptime.js.org
+  cname: uptime.kimai.cloud
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /cloud-status
+  #baseUrl: /cloud-status
   logoUrl: https://www.kimai.cloud/images/cloud-logo.png
   name: Kimai-Cloud Status
   introTitle: "Status page for www.kimai.cloud"
@@ -32,5 +39,5 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-#i18n:
-#    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+i18n:
+    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
