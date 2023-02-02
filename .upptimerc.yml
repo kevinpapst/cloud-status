@@ -10,10 +10,10 @@ sites:
   - name: Demo Cloud (Custom Domain)
     url: https://time.kevinpapst.de
 
-    grep;https://kevin.kimai.cloud/de/login|Customer Clouds;Anmelden
-    grep;https://www.kimai.cloud/|Website;Create account
-    grep;https://www.kimai.cloud/auth/|Account & Billing;Login
-    grep;https://www.kimai.cloud/___status/|Outbound Emails Delivery;"MAIL":true
+#    grep;https://kevin.kimai.cloud/de/login|Customer Clouds;Anmelden
+#    grep;https://www.kimai.cloud/|Website;Create account
+#    grep;https://www.kimai.cloud/auth/|Account & Billing;Login
+#    grep;https://www.kimai.cloud/___status/|Outbound Emails Delivery;"MAIL":true
 
 
 
