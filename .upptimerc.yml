@@ -6,7 +6,8 @@ skipHomepageUpdate: true
 assignees:
     - kevinpapst
 i18n:
-    footer: Generated with [Upptime](https://upptime.js.org)
+    footer: ""
+#    footer: Generated with [Upptime](https://upptime.js.org)
 
 sites:
   - name: Website
