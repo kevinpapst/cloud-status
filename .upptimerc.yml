@@ -6,9 +6,9 @@ sites:
   - name: Kimai-Cloud
     url: https://www.kimai.cloud
   - name: Demo Cloud
-    url: https://time.kevinpapst.de
-  - name: Hacker News
     url: https://kevin.kimai.cloud
+  - name: Demo Cloud (Custom Domain)
+    url: https://time.kevinpapst.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
