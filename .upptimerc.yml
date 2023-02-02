@@ -10,11 +10,16 @@ sites:
   - name: Demo Cloud (Custom Domain)
     url: https://time.kevinpapst.de
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 status-website:
+  apiBaseUrl: https://api.github.com
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /cloud-status
+  baseUrl: https://kevinpapst.github.io/cloud-status
   logoUrl: https://www.kimai.cloud/images/cloud-logo.png
   name: Kimai-Cloud Status
   introTitle: "Status page for www.kimai.cloud"
