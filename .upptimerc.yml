@@ -1,5 +1,12 @@
 owner: kevinpapst
 repo: cloud-status
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+assignees:
+    - kevinpapst
+i18n:
+    footer: Generated with [Upptime](https://upptime.js.org)
 
 sites:
   - name: Website
@@ -20,10 +27,6 @@ sites:
     url: $CLOUD_STATUS_URL
     __dangerous__body_down_if_text_missing: '"MAIL":true'
 
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
-
 status-website:
   cname: uptime.kimai.cloud
   logoUrl: https://www.kimai.cloud/images/cloud-logo.png
@@ -38,6 +41,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-i18n:
-    footer: Generated with [Upptime](https://upptime.js.org)
