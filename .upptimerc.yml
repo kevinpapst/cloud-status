@@ -1,31 +1,25 @@
-# Change these first
-owner: kevinpapst # Your GitHub organization or username, where this repository lives
-repo: cloud-status # The name of this repository
+owner: kevinpapst
+repo: cloud-status
 
 sites:
-  - name: Kimai-Cloud
+  - name: Website
     url: https://www.kimai.cloud
   - name: Demo Cloud
-    url: https://kevin.kimai.cloud
+    url: https://kevin.kimai.cloud/de/login
+    __dangerous__body_down_if_text_missing: 'Anmelden'
   - name: Demo Cloud (Custom Domain)
-    url: https://time.kevinpapst.de
-
-#    grep;https://kevin.kimai.cloud/de/login|Customer Clouds;Anmelden
-#    grep;https://www.kimai.cloud/|Website;Create account
-#    grep;https://www.kimai.cloud/auth/|Account & Billing;Login
-#    grep;https://www.kimai.cloud/___status/|Outbound Emails Delivery;"MAIL":true
-
-
+    url: https://time.kevinpapst.de/de/login
+    __dangerous__body_down_if_text_missing: 'Anmelden'
+  - name: Outbound Emails
+    url: $CLOUD_STATUS_URL
+    __dangerous__body_down_if_text_missing: '"MAIL":true'
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
   cname: uptime.kimai.cloud
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #baseUrl: /cloud-status
   logoUrl: https://www.kimai.cloud/images/cloud-logo.png
   name: Kimai-Cloud Status
   introTitle: "Status page for www.kimai.cloud"
@@ -40,4 +34,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+    footer: Generated with [Upptime](https://upptime.js.org)
