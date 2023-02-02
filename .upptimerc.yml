@@ -7,6 +7,12 @@ sites:
   - name: Demo Cloud
     url: https://kevin.kimai.cloud/de/login
     __dangerous__body_down_if_text_missing: 'Anmelden'
+  - name: Database Cluster
+    url: $CLOUD_REPLICA_URL
+    __dangerous__body_down_if_text_missing: '"DB_REPLICA":true'
+  - name: Database Backup
+    url: $CLOUD_REPLICANT_URL
+    __dangerous__body_down_if_text_missing: '"DB_REPLICANT":true'
   - name: Demo Cloud (Custom Domain)
     url: https://time.kevinpapst.de/de/login
     __dangerous__body_down_if_text_missing: 'Anmelden'
