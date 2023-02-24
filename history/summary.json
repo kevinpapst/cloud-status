@@ -58,18 +58,20 @@
     "url": "$CLOUD_REPLICANT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 113,
-    "timeWeek": 127,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 203,
+    "timeDay": 137,
+    "timeWeek": 131,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2023-02-24": 0
+    }
   },
   {
     "name": "Demo Cloud (Custom Domain)",
