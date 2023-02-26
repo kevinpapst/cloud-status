@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 832,
-    "timeWeek": 774,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "time": 960,
+    "timeDay": 825,
+    "timeWeek": 743,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   },
   {
@@ -23,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 673,
-    "timeDay": 652,
-    "timeWeek": 642,
+    "timeDay": 622,
+    "timeWeek": 631,
     "timeMonth": 673,
     "timeYear": 673,
-    "dailyMinutesDown": {
-      "2023-02-25": 47,
-      "2023-02-24": 83
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Cluster",
@@ -44,20 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 145,
-    "timeWeek": 136,
+    "timeDay": 133,
+    "timeWeek": 134,
     "timeMonth": 133,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2023-02-25": 40,
-      "2023-02-24": 77
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Backup",
@@ -65,20 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 190,
-    "timeDay": 136,
-    "timeWeek": 133,
-    "timeMonth": 190,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2023-02-25": 40,
-      "2023-02-24": 119
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 189,
+    "timeDay": 129,
+    "timeWeek": 131,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud (Custom Domain)",
@@ -86,20 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-custom-domain",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 899,
-    "timeDay": 999,
-    "timeWeek": 934,
-    "timeMonth": 899,
-    "timeYear": 899,
-    "dailyMinutesDown": {
-      "2023-02-25": 47,
-      "2023-02-24": 83
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 894,
+    "timeDay": 1006,
+    "timeWeek": 874,
+    "timeMonth": 894,
+    "timeYear": 894,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Outbound Emails",
@@ -107,19 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outbound-emails",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 136,
-    "timeWeek": 130,
+    "timeDay": 126,
+    "timeWeek": 128,
     "timeMonth": 135,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2023-02-25": 40,
-      "2023-02-24": 77
-    }
+    "dailyMinutesDown": {}
   }
 ]
