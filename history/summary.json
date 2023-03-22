@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 844,
     "timeMonth": 909,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   },
   {
     "name": "Demo Cloud",
