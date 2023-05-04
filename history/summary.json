@@ -4,19 +4,19 @@
     "url": "https://www.kimai.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 721,
-    "timeWeek": 679,
-    "timeMonth": 842,
-    "timeYear": 899,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 898,
+    "timeDay": 670,
+    "timeWeek": 671,
+    "timeMonth": 835,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-05-04": 3
+      "2023-05-04": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://kevin.kimai.cloud/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 441,
-    "timeWeek": 568,
-    "timeMonth": 624,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 642,
+    "timeDay": 446,
+    "timeWeek": 554,
+    "timeMonth": 618,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-05-04": 2
+      "2023-05-04": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$CLOUD_REPLICA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 114,
-    "timeWeek": 115,
-    "timeMonth": 137,
+    "timeDay": 113,
+    "timeWeek": 114,
+    "timeMonth": 136,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-05-04": 1
+      "2023-05-04": 7
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$CLOUD_REPLICANT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 111,
-    "timeWeek": 115,
-    "timeMonth": 137,
-    "timeYear": 156,
+    "time": 155,
+    "timeDay": 112,
+    "timeWeek": 114,
+    "timeMonth": 136,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-05-04": 1
+      "2023-05-04": 7
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://time.kevinpapst.de/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-custom-domain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 614,
-    "timeWeek": 744,
-    "timeMonth": 1015,
-    "timeYear": 932,
+    "time": 929,
+    "timeDay": 593,
+    "timeWeek": 723,
+    "timeMonth": 1001,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2023-05-04": 0
+      "2023-05-04": 6
     }
   },
   {
