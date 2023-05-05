@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 898,
-    "timeDay": 670,
-    "timeWeek": 671,
-    "timeMonth": 835,
-    "timeYear": 898,
-    "dailyMinutesDown": {
-      "2023-05-04": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 897,
+    "timeDay": 812,
+    "timeWeek": 724,
+    "timeMonth": 831,
+    "timeYear": 897,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 642,
-    "timeDay": 446,
-    "timeWeek": 554,
-    "timeMonth": 618,
-    "timeYear": 642,
-    "dailyMinutesDown": {
-      "2023-05-04": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 643,
+    "timeDay": 578,
+    "timeWeek": 586,
+    "timeMonth": 613,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Cluster",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 113,
-    "timeWeek": 114,
+    "timeDay": 146,
+    "timeWeek": 123,
     "timeMonth": 136,
     "timeYear": 137,
-    "dailyMinutesDown": {
-      "2023-05-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Backup",
@@ -66,18 +60,16 @@
     "slug": "database-backup",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 112,
-    "timeWeek": 114,
+    "time": 156,
+    "timeDay": 145,
+    "timeWeek": 123,
     "timeMonth": 136,
-    "timeYear": 155,
-    "dailyMinutesDown": {
-      "2023-05-04": 7
-    }
+    "timeYear": 156,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud (Custom Domain)",
@@ -86,18 +78,16 @@
     "slug": "demo-cloud-custom-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 593,
-    "timeWeek": 723,
-    "timeMonth": 1001,
-    "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-05-04": 6
-    }
+    "time": 931,
+    "timeDay": 838,
+    "timeWeek": 794,
+    "timeMonth": 855,
+    "timeYear": 931,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Outbound Emails",
@@ -111,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 105,
-    "timeWeek": 109,
+    "timeDay": 171,
+    "timeWeek": 118,
     "timeMonth": 132,
     "timeYear": 134,
     "dailyMinutesDown": {}
