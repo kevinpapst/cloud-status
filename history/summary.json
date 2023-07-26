@@ -4,11 +4,11 @@
     "url": "https://www.kimai.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 1036,
@@ -16,7 +16,7 @@
     "timeMonth": 922,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-07-26": 6
+      "2023-07-26": 0
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "demo-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
     "timeDay": 797,
     "timeWeek": 757,
     "timeMonth": 684,
     "timeYear": 637,
-    "dailyMinutesDown": {
-      "2023-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Cluster",
@@ -46,18 +44,16 @@
     "slug": "database-cluster",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 158,
     "timeWeek": 138,
     "timeMonth": 142,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2023-07-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Backup",
@@ -66,18 +62,16 @@
     "slug": "database-backup",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 159,
     "timeWeek": 138,
     "timeMonth": 142,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2023-07-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud (Custom Domain)",
