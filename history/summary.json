@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 1036,
@@ -16,7 +16,7 @@
     "timeMonth": 922,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 6
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://kevin.kimai.cloud/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
@@ -35,7 +35,9 @@
     "timeWeek": 757,
     "timeMonth": 684,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Database Cluster",
