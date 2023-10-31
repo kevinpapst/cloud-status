@@ -1,7 +1,7 @@
 url: $CLOUD_REPLICA_URL
-status: down
-code: 500
-responseTime: 797
-lastUpdated: 2023-10-31T23:38:32.921Z
+status: up
+code: 200
+responseTime: 110
+lastUpdated: 2023-10-31T23:45:06.567Z
 startTime: 2023-02-02T11:54:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
