@@ -4,19 +4,19 @@
     "url": "https://www.kimai.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 1304,
-    "timeWeek": 1047,
-    "timeMonth": 999,
-    "timeYear": 917,
+    "time": 916,
+    "timeDay": 1064,
+    "timeWeek": 996,
+    "timeMonth": 986,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$CLOUD_REPLICA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 466,
-    "timeWeek": 218,
-    "timeMonth": 153,
+    "timeDay": 347,
+    "timeWeek": 206,
+    "timeMonth": 151,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 7
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$CLOUD_REPLICANT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 449,
-    "timeWeek": 214,
-    "timeMonth": 152,
+    "timeDay": 334,
+    "timeWeek": 202,
+    "timeMonth": 151,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 7
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "$CLOUD_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outbound-emails",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 628,
-    "timeWeek": 256,
-    "timeMonth": 159,
+    "timeDay": 451,
+    "timeWeek": 239,
+    "timeMonth": 157,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-10-31": 0
+      "2023-10-31": 6
     }
   }
 ]
