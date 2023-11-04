@@ -1,7 +1,7 @@
 url: $CLOUD_STATUS_URL
 status: up
 code: 200
-responseTime: 133
-lastUpdated: 2023-11-03T23:04:36.815Z
+responseTime: 168
+lastUpdated: 2023-11-04T23:04:32.272Z
 startTime: 2023-02-02T11:26:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
