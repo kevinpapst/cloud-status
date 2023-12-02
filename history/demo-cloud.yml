@@ -1,7 +1,7 @@
 url: https://kevin.kimai.cloud/de/login
-status: up
-code: 200
-responseTime: 638
-lastUpdated: 2023-12-02T23:04:27.552Z
+status: down
+code: 500
+responseTime: 852
+lastUpdated: 2023-12-02T23:15:12.496Z
 startTime: 2023-02-02T10:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
