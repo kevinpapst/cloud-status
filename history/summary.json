@@ -76,9 +76,9 @@
     "url": "https://time.kevinpapst.de/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-custom-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1298,
     "timeMonth": 1349,
     "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "Outbound Emails",
