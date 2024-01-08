@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
-    "timeDay": 851,
-    "timeWeek": 850,
-    "timeMonth": 962,
+    "timeDay": 935,
+    "timeWeek": 887,
+    "timeMonth": 938,
     "timeYear": 927,
-    "dailyMinutesDown": {
-      "2024-01-05": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud",
@@ -26,18 +24,16 @@
     "slug": "demo-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 666,
-    "timeWeek": 663,
+    "time": 687,
+    "timeDay": 787,
+    "timeWeek": 737,
     "timeMonth": 735,
-    "timeYear": 686,
-    "dailyMinutesDown": {
-      "2024-01-05": 6
-    }
+    "timeYear": 687,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Cluster",
@@ -46,18 +42,16 @@
     "slug": "database-cluster",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 113,
-    "timeWeek": 120,
-    "timeMonth": 130,
+    "timeDay": 162,
+    "timeWeek": 130,
+    "timeMonth": 131,
     "timeYear": 137,
-    "dailyMinutesDown": {
-      "2024-01-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database Backup",
@@ -66,18 +60,16 @@
     "slug": "database-backup",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 114,
-    "timeWeek": 122,
-    "timeMonth": 131,
+    "timeDay": 166,
+    "timeWeek": 132,
+    "timeMonth": 132,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2024-01-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo Cloud (Custom Domain)",
@@ -91,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1139,
-    "timeDay": 5323,
-    "timeWeek": 2257,
-    "timeMonth": 1587,
+    "timeDay": 1026,
+    "timeWeek": 2239,
+    "timeMonth": 1554,
     "timeYear": 1139,
     "dailyMinutesDown": {}
   },
@@ -109,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 105,
-    "timeWeek": 115,
-    "timeMonth": 124,
+    "timeDay": 152,
+    "timeWeek": 126,
+    "timeMonth": 125,
     "timeYear": 132,
     "dailyMinutesDown": {}
   }
