@@ -76,19 +76,19 @@
     "url": "https://time.kevinpapst.de/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-custom-domain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1146,
-    "timeDay": 709,
-    "timeWeek": 1226,
-    "timeMonth": 1574,
-    "timeYear": 1146,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1145,
+    "timeDay": 844,
+    "timeWeek": 1195,
+    "timeMonth": 1556,
+    "timeYear": 1145,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 27
     }
   },
   {
