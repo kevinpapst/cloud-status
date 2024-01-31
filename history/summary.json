@@ -22,19 +22,19 @@
     "url": "https://kevin.kimai.cloud/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 521,
-    "timeWeek": 628,
-    "timeMonth": 694,
+    "timeDay": 541,
+    "timeWeek": 623,
+    "timeMonth": 691,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-01-31": 0
+      "2024-01-31": 7
     }
   },
   {
