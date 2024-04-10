@@ -4,19 +4,19 @@
     "url": "https://www.kimai.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 684,
-    "timeWeek": 851,
-    "timeMonth": 837,
+    "time": 921,
+    "timeDay": 669,
+    "timeWeek": 828,
+    "timeMonth": 831,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2024-04-10": 3
+      "2024-04-10": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://kevin.kimai.cloud/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 598,
-    "timeWeek": 617,
-    "timeMonth": 608,
+    "time": 683,
+    "timeDay": 594,
+    "timeWeek": 613,
+    "timeMonth": 607,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-04-10": 2
+      "2024-04-10": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$CLOUD_REPLICA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 123,
-    "timeWeek": 140,
-    "timeMonth": 134,
+    "timeDay": 120,
+    "timeWeek": 138,
+    "timeMonth": 133,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-04-10": 2
+      "2024-04-10": 12
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$CLOUD_REPLICANT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 121,
-    "timeWeek": 142,
-    "timeMonth": 136,
+    "timeDay": 117,
+    "timeWeek": 138,
+    "timeMonth": 135,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-04-10": 1
+      "2024-04-10": 11
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://time.kevinpapst.de/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-custom-domain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 783,
-    "timeWeek": 795,
-    "timeMonth": 828,
-    "timeYear": 1130,
+    "time": 1099,
+    "timeDay": 713,
+    "timeWeek": 770,
+    "timeMonth": 820,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-04-10": 1
+      "2024-04-10": 11
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$CLOUD_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outbound-emails",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 113,
-    "timeWeek": 135,
-    "timeMonth": 128,
+    "timeDay": 109,
+    "timeWeek": 131,
+    "timeMonth": 127,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 10
     }
   }
 ]
