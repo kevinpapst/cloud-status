@@ -4,19 +4,19 @@
     "url": "https://www.kimai.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.cloud.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 879,
-    "timeDay": 921,
-    "timeWeek": 846,
-    "timeMonth": 884,
-    "timeYear": 864,
+    "timeDay": 1042,
+    "timeWeek": 895,
+    "timeMonth": 896,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-04-06": 0
+      "2025-04-06": 7
     }
   },
   {
