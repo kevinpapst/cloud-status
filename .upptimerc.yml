@@ -11,9 +11,16 @@ i18n:
 
 sites:
   - name: Website
-    url: https://www.kimai.cloud
+    url: https://www.kimai.org
+    __dangerous__body_down_if_text_missing: 'Kimai'
+  - name: Cloud Management
+    url: https://www.kimai.cloud/auth/registration
+    __dangerous__body_down_if_text_missing: 'Create account'
   - name: Demo Cloud
     url: https://kevin.kimai.cloud/de/login
+    __dangerous__body_down_if_text_missing: 'Anmelden'
+  - name: Demo Cloud with Custom Domain
+    url: https://time.kevinpapst.de/de/login
     __dangerous__body_down_if_text_missing: 'Anmelden'
   - name: Database Cluster
     url: $CLOUD_REPLICA_URL
@@ -21,12 +28,24 @@ sites:
   - name: Database Backup
     url: $CLOUD_REPLICANT_URL
     __dangerous__body_down_if_text_missing: '"DB_REPLICANT":true'
-  - name: Demo Cloud (Custom Domain)
-    url: https://time.kevinpapst.de/de/login
-    __dangerous__body_down_if_text_missing: 'Anmelden'
   - name: Outbound Emails
     url: $CLOUD_STATUS_URL
     __dangerous__body_down_if_text_missing: '"MAIL":true'
+  - name: License Manager
+    url: https://license.kimai.org/
+    __dangerous__body_down_if_text_missing: '"Login'
+  - name: Plugin API
+    url: https://www.kimai.org/plugins.json
+    __dangerous__body_down_if_text_missing: '"Login'
+  - name: Demo (stable)
+    url: https://demo-stable.kimai.org/en/login
+    __dangerous__body_down_if_text_missing: 'Login'
+  - name: Demo (development)
+    url: https://demo.kimai.org/en/login
+    __dangerous__body_down_if_text_missing: 'Login'
+  - name: Demo (empty)
+    url: https://demo-empty.kimai.org/en/login
+    __dangerous__body_down_if_text_missing: 'Login'
 
 status-website:
   cname: uptime.kimai.cloud
