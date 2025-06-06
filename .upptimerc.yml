@@ -33,10 +33,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"MAIL":true'
   - name: License Manager
     url: https://license.kimai.org/
-    __dangerous__body_down_if_text_missing: '"Login'
+    __dangerous__body_down_if_text_missing: '"Kimai'
   - name: Plugin API
     url: https://www.kimai.org/plugins.json
-    __dangerous__body_down_if_text_missing: '"Login'
+    __dangerous__body_down_if_text_missing: '"WorkContractBundle'
   - name: Demo (stable)
     url: https://demo-stable.kimai.org/en/login
     __dangerous__body_down_if_text_missing: 'Login'
