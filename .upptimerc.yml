@@ -30,15 +30,15 @@ sites:
 
 status-website:
   cname: uptime.kimai.cloud
-  logoUrl: https://www.kimai.cloud/images/cloud-logo.png
-  name: Kimai-Cloud Status
-  introTitle: "Status page for www.kimai.cloud"
-  introMessage: ""
+  logoUrl: https://www.kimai.org/images/kimai_logo_48.webp
+  name: Kimai
+  introTitle: "Status page for Kimai Time tracking"
+  introMessage: "This page shows the status of all Kimai resources. Please get in touch if your cloud cannot be reached."
   navbar:
     - title: Status
       href: /
-    - title: Kimai-Cloud
-      href: https://www.kimai.cloud
+    - title: Back to Kimai
+      href: https://www.kimai.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
