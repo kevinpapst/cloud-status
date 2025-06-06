@@ -135,19 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/license.kimai.org.ico",
     "slug": "license-manager",
     "status": "up",
-    "uptime": "5.12%",
-    "uptimeDay": "5.12%",
-    "uptimeWeek": "5.12%",
-    "uptimeMonth": "5.12%",
-    "uptimeYear": "5.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 488,
     "timeDay": 488,
     "timeWeek": 488,
     "timeMonth": 488,
     "timeYear": 488,
-    "dailyMinutesDown": {
-      "2025-06-06": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plugin API",
@@ -155,19 +153,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.org.ico",
     "slug": "plugin-api",
     "status": "up",
-    "uptime": "4.26%",
-    "uptimeDay": "4.26%",
-    "uptimeWeek": "4.26%",
-    "uptimeMonth": "4.26%",
-    "uptimeYear": "4.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 465,
     "timeWeek": 465,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2025-06-06": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo (stable)",
