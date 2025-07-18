@@ -170,18 +170,20 @@
     "url": "https://demo-stable.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-stable.kimai.org.ico",
     "slug": "demo-stable",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 1290,
-    "timeWeek": 797,
-    "timeMonth": 839,
-    "timeYear": 831,
-    "dailyMinutesDown": {}
+    "time": 854,
+    "timeDay": 1604,
+    "timeWeek": 895,
+    "timeMonth": 870,
+    "timeYear": 854,
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "Demo (development)",
@@ -189,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.kimai.org.ico",
     "slug": "demo-development",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.28%",
     "time": 997,
     "timeDay": 627,
     "timeWeek": 896,
@@ -211,18 +213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1061,
-    "timeDay": 1127,
+    "timeDay": 1215,
     "timeWeek": 910,
     "timeMonth": 1116,
     "timeYear": 1061,
-    "dailyMinutesDown": {
-      "2025-07-18": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
