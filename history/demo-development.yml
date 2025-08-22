@@ -1,7 +1,7 @@
 url: https://demo.kimai.org/en/login
-status: down
-code: 500
-responseTime: 1566
-lastUpdated: 2025-08-22T10:23:54.332Z
+status: up
+code: 200
+responseTime: 951
+lastUpdated: 2025-08-22T10:35:17.860Z
 startTime: 2025-06-06T11:10:01.885Z
 generator: Upptime <https://github.com/upptime/upptime>
