@@ -95,19 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 138,
     "timeDay": 114,
     "timeWeek": 141,
     "timeMonth": 143,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-08-06": 128,
-      "2025-03-30": 468
+      "2025-08-06": 128
     }
   },
   {
@@ -116,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outbound-emails",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 106,
     "timeWeek": 130,
     "timeMonth": 133,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2024-09-30": 199
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "License Manager",
@@ -191,24 +188,20 @@
     "url": "https://demo.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.kimai.org.ico",
     "slug": "demo-development",
-    "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.92%",
-    "time": 1073,
-    "timeDay": 545,
-    "timeWeek": 936,
-    "timeMonth": 1134,
-    "timeYear": 1073,
+    "uptimeYear": "99.50%",
+    "time": 1078,
+    "timeDay": 1311,
+    "timeWeek": 1050,
+    "timeMonth": 1149,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2025-07-26": 718,
-      "2025-07-22": 404,
-      "2025-07-21": 803,
-      "2025-06-27": 725,
-      "2025-06-20": 241,
-      "2025-06-19": 86
+      "2025-09-14": 0,
+      "2025-07-26": 718
     }
   },
   {
@@ -217,19 +210,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "100.00%",
     "time": 1008,
     "timeDay": 826,
     "timeWeek": 953,
-    "timeMonth": 962,
+    "timeMonth": 950,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2025-07-22": 404,
-      "2025-07-21": 783
-    }
+    "dailyMinutesDown": {}
   }
 ]
