@@ -209,19 +209,19 @@
     "url": "https://demo-empty.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1038,
-    "timeDay": 1459,
-    "timeWeek": 1227,
-    "timeMonth": 1133,
-    "timeYear": 1038,
+    "time": 1037,
+    "timeDay": 1261,
+    "timeWeek": 1200,
+    "timeMonth": 1129,
+    "timeYear": 1037,
     "dailyMinutesDown": {
-      "2025-10-09": 0
+      "2025-10-09": 7
     }
   }
 ]
