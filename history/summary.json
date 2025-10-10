@@ -176,7 +176,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 897,
-    "timeDay": 1100,
+    "timeDay": 574,
     "timeWeek": 870,
     "timeMonth": 815,
     "timeYear": 897,
@@ -209,17 +209,19 @@
     "url": "https://demo-empty.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1233,
-    "timeWeek": 1185,
-    "timeMonth": 1127,
-    "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "time": 1035,
+    "timeDay": 1127,
+    "timeWeek": 1158,
+    "timeMonth": 1114,
+    "timeYear": 1035,
+    "dailyMinutesDown": {
+      "2025-10-10": 0
+    }
   }
 ]
