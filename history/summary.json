@@ -178,7 +178,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 934,
-    "timeDay": 1628,
+    "timeDay": 1477,
     "timeWeek": 1132,
     "timeMonth": 1046,
     "timeYear": 934,
@@ -193,9 +193,9 @@
     "slug": "demo-development",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.32%",
     "time": 1086,
     "timeDay": 1539,
@@ -203,7 +203,6 @@
     "timeMonth": 1058,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-10-31": 7,
       "2025-10-17": 719,
       "2025-07-26": 718
     }
@@ -220,7 +219,7 @@
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.66%",
     "time": 1045,
-    "timeDay": 1069,
+    "timeDay": 822,
     "timeWeek": 1045,
     "timeMonth": 1107,
     "timeYear": 1045,
