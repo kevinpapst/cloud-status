@@ -193,9 +193,9 @@
     "slug": "demo-development",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.35%",
     "time": 1113,
     "timeDay": 1302,
@@ -203,7 +203,6 @@
     "timeMonth": 1188,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-11-07": 7,
       "2025-10-17": 719,
       "2025-07-26": 718
     }
@@ -213,18 +212,19 @@
     "url": "https://demo-empty.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.67%",
-    "time": 1051,
-    "timeDay": 1228,
-    "timeWeek": 1173,
-    "timeMonth": 1116,
-    "timeYear": 1051,
+    "time": 1053,
+    "timeDay": 1380,
+    "timeWeek": 1214,
+    "timeMonth": 1127,
+    "timeYear": 1053,
     "dailyMinutesDown": {
+      "2025-11-07": 0,
       "2025-10-18": 660,
       "2025-10-17": 67
     }
