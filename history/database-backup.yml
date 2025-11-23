@@ -1,7 +1,7 @@
 url: $CLOUD_REPLICANT_URL
-status: down
+status: up
 code: 200
-responseTime: 128
-lastUpdated: 2025-11-23T04:04:52.241Z
+responseTime: 140
+lastUpdated: 2025-11-23T08:03:22.236Z
 startTime: 2023-02-02T11:54:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
