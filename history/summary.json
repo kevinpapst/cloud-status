@@ -196,9 +196,9 @@
     "slug": "demo-development",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.44%",
     "time": 1156,
     "timeDay": 1468,
@@ -206,7 +206,6 @@
     "timeMonth": 1361,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2025-12-03": 8,
       "2025-11-09": 20,
       "2025-10-17": 719,
       "2025-07-26": 718
