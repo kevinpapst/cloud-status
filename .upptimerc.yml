@@ -48,6 +48,7 @@ sites:
     __dangerous__body_down_if_text_missing: 'Login'
 
 status-website:
+  favicon: https://www.kimai.org/images/apple-touch-icon.png
   cname: uptime.kimai.cloud
   logoUrl: https://www.kimai.org/images/kimai_logo_48.webp
   name: Kimai
