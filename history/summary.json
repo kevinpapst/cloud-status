@@ -174,18 +174,16 @@
     "slug": "demo-stable",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 942,
     "timeDay": 932,
     "timeWeek": 849,
     "timeMonth": 907,
     "timeYear": 942,
-    "dailyMinutesDown": {
-      "2025-12-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo (development)",
@@ -219,7 +217,7 @@
     "time": 1088,
     "timeDay": 429,
     "timeWeek": 1001,
-    "timeMonth": 1217,
+    "timeMonth": 1210,
     "timeYear": 1088,
     "dailyMinutesDown": {}
   }
