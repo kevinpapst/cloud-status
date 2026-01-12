@@ -193,18 +193,16 @@
     "slug": "demo-development",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1155,
     "timeDay": 1194,
     "timeWeek": 898,
     "timeMonth": 1044,
     "timeYear": 1155,
-    "dailyMinutesDown": {
-      "2026-01-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo (empty)",
