@@ -44,9 +44,9 @@
     "slug": "demo-cloud",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 769,
     "timeDay": 867,
@@ -54,7 +54,7 @@
     "timeMonth": 879,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2026-02-28": 0
+      "2026-02-28": 13
     }
   },
   {
@@ -64,9 +64,9 @@
     "slug": "demo-cloud-with-custom-domain",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1267,
     "timeDay": 1563,
@@ -74,7 +74,7 @@
     "timeMonth": 1434,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-02-28": 0
+      "2026-02-28": 13
     }
   },
   {
@@ -82,18 +82,19 @@
     "url": "$CLOUD_REPLICA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 142,
-    "timeDay": 159,
-    "timeWeek": 146,
-    "timeMonth": 148,
-    "timeYear": 143,
+    "time": 146,
+    "timeDay": 1161,
+    "timeWeek": 348,
+    "timeMonth": 207,
+    "timeYear": 148,
     "dailyMinutesDown": {
+      "2026-02-28": 2,
       "2026-02-22": 106
     }
   },
@@ -102,18 +103,19 @@
     "url": "$CLOUD_REPLICANT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 143,
-    "timeDay": 161,
-    "timeWeek": 147,
-    "timeMonth": 152,
-    "timeYear": 144,
+    "time": 147,
+    "timeDay": 1163,
+    "timeWeek": 349,
+    "timeMonth": 207,
+    "timeYear": 149,
     "dailyMinutesDown": {
+      "2026-02-28": 2,
       "2026-02-22": 106
     }
   },
@@ -122,9 +124,9 @@
     "url": "$CLOUD_STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "outbound-emails",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -134,6 +136,7 @@
     "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-22": 106
     }
   },
