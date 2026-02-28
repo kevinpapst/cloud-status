@@ -42,36 +42,40 @@
     "url": "https://kevin.kimai.cloud/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/kevin.kimai.cloud.ico",
     "slug": "demo-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 909,
-    "timeWeek": 897,
-    "timeMonth": 880,
+    "timeDay": 867,
+    "timeWeek": 888,
+    "timeMonth": 879,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-28": 0
+    }
   },
   {
     "name": "Demo Cloud with Custom Domain",
     "url": "https://time.kevinpapst.de/de/login",
     "icon": "https://icons.duckduckgo.com/ip3/time.kevinpapst.de.ico",
     "slug": "demo-cloud-with-custom-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1266,
-    "timeDay": 1623,
-    "timeWeek": 1436,
-    "timeMonth": 1432,
-    "timeYear": 1266,
-    "dailyMinutesDown": {}
+    "time": 1267,
+    "timeDay": 1563,
+    "timeWeek": 1444,
+    "timeMonth": 1434,
+    "timeYear": 1267,
+    "dailyMinutesDown": {
+      "2026-02-28": 0
+    }
   },
   {
     "name": "Database Cluster",
