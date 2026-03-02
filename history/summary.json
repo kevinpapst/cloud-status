@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 911,
-    "timeDay": 901,
-    "timeWeek": 841,
-    "timeMonth": 922,
-    "timeYear": 919,
+    "timeDay": 744,
+    "timeWeek": 816,
+    "timeMonth": 920,
+    "timeYear": 918,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 688,
-    "timeWeek": 816,
-    "timeMonth": 802,
+    "timeDay": 711,
+    "timeWeek": 806,
+    "timeMonth": 803,
     "timeYear": 732,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 770,
-    "timeDay": 877,
-    "timeWeek": 863,
-    "timeMonth": 889,
-    "timeYear": 812,
+    "time": 771,
+    "timeDay": 840,
+    "timeWeek": 854,
+    "timeMonth": 891,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2026-02-28": 79
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 1267,
-    "timeDay": 1571,
-    "timeWeek": 1354,
-    "timeMonth": 1438,
-    "timeYear": 1267,
+    "time": 1268,
+    "timeDay": 1489,
+    "timeWeek": 1338,
+    "timeMonth": 1433,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2026-02-28": 79
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 140,
-    "timeWeek": 346,
+    "timeDay": 108,
+    "timeWeek": 342,
     "timeMonth": 209,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -106,11 +106,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 148,
-    "timeDay": 143,
-    "timeWeek": 345,
-    "timeMonth": 209,
-    "timeYear": 149,
+    "time": 147,
+    "timeDay": 115,
+    "timeWeek": 341,
+    "timeMonth": 208,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2026-02-28": 27
     }
@@ -127,8 +127,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 133,
-    "timeWeek": 134,
+    "timeDay": 107,
+    "timeWeek": 130,
     "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -147,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 627,
-    "timeWeek": 690,
-    "timeMonth": 671,
+    "timeDay": 745,
+    "timeWeek": 659,
+    "timeMonth": 680,
     "timeYear": 701,
     "dailyMinutesDown": {}
   },
@@ -165,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 550,
-    "timeWeek": 546,
-    "timeMonth": 570,
+    "timeDay": 436,
+    "timeWeek": 523,
+    "timeMonth": 568,
     "timeYear": 543,
     "dailyMinutesDown": {}
   },
@@ -176,18 +176,20 @@
     "url": "https://demo-stable.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-stable.kimai.org.ico",
     "slug": "demo-stable",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 967,
-    "timeDay": 888,
-    "timeWeek": 938,
-    "timeMonth": 1038,
+    "timeDay": 884,
+    "timeWeek": 945,
+    "timeMonth": 1040,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-02": 0
+    }
   },
   {
     "name": "Demo (development)",
@@ -201,9 +203,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1115,
-    "timeDay": 733,
-    "timeWeek": 883,
-    "timeMonth": 983,
+    "timeDay": 775,
+    "timeWeek": 891,
+    "timeMonth": 974,
     "timeYear": 1115,
     "dailyMinutesDown": {}
   },
@@ -219,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1050,
-    "timeDay": 1074,
-    "timeWeek": 970,
-    "timeMonth": 959,
+    "timeDay": 1155,
+    "timeWeek": 864,
+    "timeMonth": 961,
     "timeYear": 1050,
     "dailyMinutesDown": {}
   }
