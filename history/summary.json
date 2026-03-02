@@ -214,18 +214,15 @@
     "slug": "demo-empty",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1050,
     "timeDay": 1074,
     "timeWeek": 970,
     "timeMonth": 959,
     "timeYear": 1050,
-    "dailyMinutesDown": {
-      "2026-03-02": 0,
-      "2026-03-01": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
