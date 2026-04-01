@@ -13,7 +13,7 @@
     "time": 916,
     "timeDay": 979,
     "timeWeek": 785,
-    "timeMonth": 938,
+    "timeMonth": 939,
     "timeYear": 921,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 725,
     "timeDay": 676,
     "timeWeek": 700,
-    "timeMonth": 661,
+    "timeMonth": 660,
     "timeYear": 725,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 776,
     "timeDay": 798,
     "timeWeek": 669,
-    "timeMonth": 736,
+    "timeMonth": 732,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2026-02-28": 79
@@ -69,7 +69,7 @@
     "time": 1241,
     "timeDay": 1063,
     "timeWeek": 1013,
-    "timeMonth": 1016,
+    "timeMonth": 997,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2026-02-28": 79
@@ -149,7 +149,7 @@
     "time": 686,
     "timeDay": 569,
     "timeWeek": 549,
-    "timeMonth": 554,
+    "timeMonth": 552,
     "timeYear": 686,
     "dailyMinutesDown": {}
   },
@@ -167,7 +167,7 @@
     "time": 541,
     "timeDay": 629,
     "timeWeek": 501,
-    "timeMonth": 523,
+    "timeMonth": 522,
     "timeYear": 541,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "time": 963,
     "timeDay": 983,
     "timeWeek": 800,
-    "timeMonth": 936,
+    "timeMonth": 939,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2026-04-01": 20,
@@ -212,7 +212,7 @@
     "time": 1078,
     "timeDay": 669,
     "timeWeek": 902,
-    "timeMonth": 829,
+    "timeMonth": 830,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2026-03-30": 16,
@@ -236,19 +236,19 @@
     "url": "https://demo-empty.kimai.org/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo-empty.kimai.org.ico",
     "slug": "demo-empty",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.95%",
     "time": 1024,
-    "timeDay": 727,
-    "timeWeek": 694,
-    "timeMonth": 810,
+    "timeDay": 742,
+    "timeWeek": 701,
+    "timeMonth": 813,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2026-04-01": 0,
+      "2026-04-01": 16,
       "2026-03-19": 17,
       "2026-03-18": 5,
       "2026-03-17": 24,
