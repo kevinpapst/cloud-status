@@ -37,15 +37,6 @@ sites:
   - name: Plugin API
     url: https://www.kimai.org/plugins.json
     __dangerous__body_down_if_text_missing: '"WorkContractBundle'
-  - name: Demo (stable)
-    url: https://demo-stable.kimai.org/en/login
-    __dangerous__body_down_if_text_missing: 'Login'
-  - name: Demo (development)
-    url: https://demo.kimai.org/en/login
-    __dangerous__body_down_if_text_missing: 'Login'
-  - name: Demo (empty)
-    url: https://demo-empty.kimai.org/en/login
-    __dangerous__body_down_if_text_missing: 'Login'
 
 status-website:
   favicon: https://www.kimai.org/images/apple-touch-icon.png
