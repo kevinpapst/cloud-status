@@ -1,22 +1,22 @@
 [
   {
     "name": "Website",
-    "url": "https://www.kimai.org",
+    "url": "https://www.kimai.org/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kimai.org.ico",
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 915,
     "timeDay": 679,
     "timeWeek": 771,
     "timeMonth": 796,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2026-04-24": 0
+      "2026-04-24": 41
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 691,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 718,
+    "time": 721,
+    "timeDay": 1228,
+    "timeWeek": 782,
+    "timeMonth": 676,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 783,
-    "timeDay": 870,
-    "timeWeek": 775,
-    "timeMonth": 737,
-    "timeYear": 816,
+    "timeDay": 878,
+    "timeWeek": 789,
+    "timeMonth": 742,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2026-02-28": 79
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1228,
-    "timeDay": 1498,
-    "timeWeek": 1149,
-    "timeMonth": 1046,
-    "timeYear": 1228,
+    "time": 1232,
+    "timeDay": 1916,
+    "timeWeek": 1297,
+    "timeMonth": 1085,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2026-02-28": 79
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 141,
-    "timeWeek": 144,
-    "timeMonth": 139,
+    "timeDay": 161,
+    "timeWeek": 149,
+    "timeMonth": 140,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-02-28": 27
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 151,
-    "timeWeek": 147,
-    "timeMonth": 142,
+    "timeDay": 167,
+    "timeWeek": 151,
+    "timeMonth": 143,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2026-02-28": 27
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 130,
-    "timeWeek": 136,
-    "timeMonth": 131,
+    "timeDay": 150,
+    "timeWeek": 140,
+    "timeMonth": 132,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-02-28": 25
@@ -149,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 499,
-    "timeWeek": 590,
-    "timeMonth": 574,
+    "timeDay": 605,
+    "timeWeek": 606,
+    "timeMonth": 578,
     "timeYear": 678,
     "dailyMinutesDown": {}
   },
@@ -167,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
-    "timeDay": 536,
-    "timeWeek": 545,
-    "timeMonth": 532,
+    "timeDay": 610,
+    "timeWeek": 562,
+    "timeMonth": 537,
     "timeYear": 542,
     "dailyMinutesDown": {}
   }
