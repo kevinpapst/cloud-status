@@ -11,7 +11,7 @@ i18n:
 
 sites:
   - name: Website
-    url: https://www.kimai.org
+    url: https://www.kimai.org/en/
     __dangerous__body_down_if_text_missing: 'Kimai'
   - name: Cloud Management
     url: https://www.kimai.cloud/auth/registration
